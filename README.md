@@ -52,7 +52,7 @@ Team Member 3: _(full name)_
 
 ### Project Solution:
 I have made two ipynb files: the convergence file contains all convergence graphs from the other ipynb file (which contains all the code).
-I have uploaded 7 mod files for all scenarios (1d or 2d ising, with, without noise; with error mitigation, trotterized)
+I have uploaded 7 qmod files for all scenarios (1d or 2d ising, with, without noise; with error mitigation, trotterized)
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
