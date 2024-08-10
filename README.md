@@ -29,11 +29,11 @@ Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US E
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 
 ### Team Information:
-Team Member 1: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
+Team Member 1: _Yasir Mansour_
+ - Email: emailym@gmail.com
+ - Discord ID: qcmp34
+ - GitHub ID: qcmp34
+ - Nationality: Swiss
  - Current affiliation:
 
 Team Member 2: _(full name)_
@@ -51,9 +51,11 @@ Team Member 3: _(full name)_
  - Current affiliation:
 
 ### Project Solution:
+I have made two ipynb files: the convergence file contains all convergence graphs from the other ipynb file (which contains all the code).
+I have uploaded 7 mod files for all scenarios (1d or 2d ising, with, without noise; with error mitigation, trotterized)
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
-### Project Presentation Deck:
+### Project Presentation Deck: I have uploaded a pptx file
 _Link a 5min. presentation recording or deck here._
 
